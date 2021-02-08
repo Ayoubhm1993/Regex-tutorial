@@ -82,10 +82,10 @@ In our Email regular expression we used ' [a-z0-9_\.-] ' , ' [\da-z\.-] ' , ' [a
 
 ## Author
 
-####Ayoub Hammouch
+#### Ayoub Hammouch
 
-#####Full Stack Developer
+##### Full Stack Developer
 
-#####Gmail :ayoubhm1993@gmail.com
+##### Gmail :ayoubhm1993@gmail.com
 
-###[Github](https://github.com/Ayoubhm1993/Regex-tutorial) 
+### [Github](https://github.com/Ayoubhm1993/Regex-tutorial) 
